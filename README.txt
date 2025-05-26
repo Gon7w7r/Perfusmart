@@ -8,11 +8,11 @@ DELETE api/Usuario/{rut} → Elimina un Usuario
 
 Path Productos
 
-GET /productos → Lista todos los productos      
-GET /productos/{id} → Busca un producto por ID
-POST /productos → Crea un nuevo producto
-PUT /productos/{id} → Actualiza un producto
-DELETE /productos/{id} → Elimina un producto
+GET api/productos → Lista todos los productos      
+GET api/productos/{id} → Busca un producto por ID
+POST api/productos → Crea un nuevo producto
+PUT api/productos/{id} → Actualiza un producto
+DELETE api/productos/{id} → Elimina un producto
 
 Path Ventas
 
