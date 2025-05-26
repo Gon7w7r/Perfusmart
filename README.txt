@@ -21,3 +21,4 @@ GET api/ventas/{id} → Busca un venta por ID
 POST api/ventas → Crea una nueva venta
 PUT api/ventas/{id} → Actualiza un proceso de venta
 DELETE api/ventas/{id} → Elimina una venta
+
